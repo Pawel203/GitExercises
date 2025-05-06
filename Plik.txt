@@ -5,4 +5,4 @@ Linijka 30
 Linijka 1
 Linijka 1
 Linijka 5
-Linijka 476
+Linijka 4
