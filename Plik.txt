@@ -1,3 +1,11 @@
+Linijka 110
+Linijka 50
+Linijka 30
+
+Linijka 1
+Linijka 1
+Linijka 5
+Linijka 4
 
 
 To jest zupe³nia inna treœæ w tym pliku
